@@ -1,0 +1,15 @@
+# The train/test net protocol buffer definition
+net: "/home/zyxu/train_e2e/data/train_val.prototxt"
+test_iter: 100
+test_interval: 2000
+base_lr: 0.0001
+momentum: 0.9
+weight_decay: 0.0005
+lr_policy: "inv"
+gamma: 0.0001
+power: 0.75
+display: 50
+max_iter: 200000
+snapshot: 10000
+snapshot_prefix: "/home/zyxu/train_e2e/model/model"
+solver_mode: GPU
