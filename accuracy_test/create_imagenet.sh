@@ -10,12 +10,8 @@ TOPATH=/home/zyxu/train_e2e/accuracy_test
 
 
 rm -r $TOPATH/imagenet_*
-echo "Creating leveldb..."
 
 GLOG_logtostderr=1 $TOOLS/convert_imageset \
     $DATA/\
     $TXTPATH/test.txt \
     $TOPATH/imagenet_test_leveldb 1
-
-
-echo "Done."

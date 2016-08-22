@@ -1,0 +1,254 @@
+TestSets/a1.txt
+0.989062 0.0558911 
+TestSets/a4l.txt
+0.995313 0.0195864 
+TestSets/a6l.txt
+nok:empty
+TestSets/accord.txt
+nok:empty
+TestSets/alsvin.txt
+0.95625 0.183775 
+TestSets/alto.txt
+0.995313 0.0298104 
+TestSets/aveo.txt
+0.967188 0.117916 
+TestSets/baojun.txt
+0.989062 0.0523257 
+TestSets/benben.txt
+1 0.00484411 
+TestSets/benz_b50.txt
+0.975 0.146879 
+TestSets/benz_c.txt
+0.953125 0.153321 
+TestSets/benz_e.txt
+0.99375 0.0409521 
+TestSets/benz_glk.txt
+0.989062 0.0415074 
+TestSets/besturn_x80.txt
+0.99375 0.0278088 
+TestSets/bmw_3.txt
+0.992188 0.0270911 
+TestSets/bmw_5.txt
+0.973437 0.0883266 
+TestSets/bora.txt
+0.978125 0.094257 
+TestSets/byd_f0.txt
+0.998438 0.0121998 
+TestSets/byd_f3.txt
+0.904688 0.334853 
+TestSets/byd_s6.txt
+0.995313 0.0245505 
+TestSets/c4l.txt
+0.996875 0.0163922 
+TestSets/c5.txt
+1 0.00684734 
+TestSets/camry.txt
+0.984375 0.0706944 
+TestSets/cc.txt
+0.998438 0.0106813 
+TestSets/city.txt
+0.98125 0.0926123 
+TestSets/corolla_ex.txt
+0.9875 0.0783927 
+TestSets/corolla.txt
+nok:empty
+TestSets/c-quatre.txt
+0.995313 0.0139505 
+TestSets/crosstour.txt
+0.9875 0.0661102 
+TestSets/crown.txt
+0.95 0.159898 
+TestSets/cr_v.txt
+0.992188 0.0412563 
+TestSets/cs35.txt
+0.990625 0.052801 
+TestSets/cx20.txt
+0.982813 0.0653362 
+TestSets/eado.txt
+0.976562 0.107205 
+TestSets/ecosport.txt
+0.992188 0.0181015 
+TestSets/elysee.txt
+0.989062 0.0440273 
+TestSets/encore.txt
+0.978125 0.0705769 
+TestSets/epica.txt
+0.998438 0.0161981 
+TestSets/excelle.txt
+nok:empty
+TestSets/fabia.txt
+0.99375 0.0294557 
+TestSets/family.txt
+0.9875 0.0616278 
+TestSets/fit.txt
+0.99375 0.0344812 
+TestSets/focus.txt
+0.984375 0.0743757 
+TestSets/forte.txt
+0.885938 0.487022 
+TestSets/frees.txt
+0.9875 0.0714392 
+TestSets/fulwin.txt
+0.384375 2.97018 
+TestSets/geely_gx7.txt
+0.992188 0.0402981 
+TestSets/gl8.txt
+1 0.00631424 
+TestSets/granlavida.txt
+0.984375 0.125305 
+TestSets/greatwall_c30.txt
+0.957812 0.146824 
+TestSets/greatwall_c50.txt
+0.995313 0.0324809 
+TestSets/hama7.txt
+0.989062 0.0703059 
+TestSets/heyue.txt
+0.985937 0.0788403 
+TestSets/hideo.txt
+0.992188 0.0375928 
+TestSets/highlander.txt
+0.98125 0.0753643 
+TestSets/honor.txt
+0.996875 0.00970463 
+TestSets/hover_h6.txt
+0.99375 0.0353858 
+TestSets/ix35.txt
+0.998438 0.00902694 
+TestSets/jetta.txt
+0.9875 0.0285972 
+TestSets/joyear.txt
+0.998438 0.0196644 
+TestSets/junjie.txt
+0.7 0.585712 
+TestSets/k2.txt
+0.948438 0.105438 
+TestSets/k5.txt
+0.995313 0.0349022 
+TestSets/kuga.txt
+0.996875 0.0355377 
+TestSets/lacross.txt
+0.989062 0.0387606 
+TestSets/langdong.txt
+0.982813 0.0940396 
+TestSets/lavida.txt
+0.83125 0.329748 
+TestSets/legal.txt
+0.985937 0.0720074 
+TestSets/lifan_320.txt
+0.992188 0.0245133 
+TestSets/lingyue.txt
+0.970312 0.0719237 
+TestSets/lingzhi.txt
+0.99375 0.0419763 
+TestSets/livana.txt
+0.996875 0.0128899 
+TestSets/lotus.txt
+0.975 0.0920287 
+TestSets/lova.txt
+0.970312 0.146279 
+TestSets/magotan.txt
+0.99375 0.0234065 
+TestSets/malibu.txt
+0.720312 0.71022 
+TestSets/mazda6.txt
+0.9875 0.0461668 
+TestSets/mg3.txt
+0.995313 0.0243976 
+TestSets/mondeo.txt
+0.985937 0.0675908 
+TestSets/no_seq:119.txt
+nok:empty
+TestSets/octavia.txt
+0.998438 0.013116 
+TestSets/odyssey.txt
+0.9875 0.0540799 
+TestSets/panda.txt
+0.992188 0.0265786 
+TestSets/passat.txt
+0.989062 0.0479305 
+TestSets/petgeot_207.txt
+0.992188 0.0328583 
+TestSets/petgeot_3008.txt
+1 0.0131578 
+TestSets/petgeot_408.txt
+0.990625 0.0459528 
+TestSets/polo.txt
+0.982813 0.0703266 
+TestSets/prado.txt
+0.990625 0.0184936 
+TestSets/q3.txt
+0.995313 0.0103021 
+TestSets/q5.txt
+0.99375 0.0293241 
+TestSets/qashqai.txt
+0.996875 0.0206798 
+TestSets/qq3.txt
+0.998438 0.0214887 
+TestSets/rav4.txt
+0.998438 0.00924159 
+TestSets/refine.txt
+0.990625 0.0712629 
+TestSets/reiz.txt
+0.957812 0.164209 
+TestSets/sagitar.txt
+0.996875 0.0115909 
+TestSets/sail.txt
+0.998438 0.00857976 
+TestSets/santafe.txt
+0.9875 0.034896 
+TestSets/santana.txt
+nok:empty
+TestSets/sonata.txt
+0.996875 0.0148435 
+TestSets/sportage_r.txt
+0.989062 0.0737782 
+TestSets/sportage.txt
+0.9875 0.04842 
+TestSets/sunny.txt
+0.992188 0.0273524 
+TestSets/superb.txt
+0 13.3583 
+TestSets/surui.txt
+0.982813 0.0660366 
+TestSets/swift.txt
+0.996875 0.0179141 
+TestSets/sylphy.txt
+0.99375 0.0440105 
+TestSets/teana.txt
+0.998438 0.0064896 
+TestSets/tiggo3.txt
+0.996875 0.0239223 
+TestSets/tiggo5.txt
+0.99375 0.0386355 
+TestSets/tiguan.txt
+0.996875 0.0200105 
+TestSets/tiida.txt
+0.996875 0.0204 
+TestSets/touran.txt
+0.995313 0.0168024 
+TestSets/trumpchi.txt
+0.992188 0.0440551 
+TestSets/tucson.txt
+0.975 0.117804 
+TestSets/verna.txt
+0.990625 0.0406685 
+TestSets/viaggio.txt
+0.995313 0.0101736 
+TestSets/vios.txt
+0.996875 0.0126498 
+TestSets/voleex.txt
+0.264062 2.18025 
+TestSets/wagon_r.txt
+0.996875 0.00506285 
+TestSets/wagon.txt
+0.378125 0.903828 
+TestSets/wlhg.txt
+0.996875 0.0262625 
+TestSets/yaris.txt
+0.96875 0.17077 
+TestSets/yuedong.txt
+0.990625 0.0332667 
+TestSets/ziyoujian.txt
+0.979688 0.0921419 
+TestSets/zotye_z300.txt
+0.917188 0.245319 
