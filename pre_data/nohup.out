@@ -1,0 +1,132 @@
+Remove old leveldb
+Creating leveldb...
+I0810 17:01:40.149649 20958 convert_imageset.cpp:85] A total of 55096 images.
+I0810 17:01:40.150013 20958 db_lmdb.cpp:23] Opened lmdb /home/zyxu/train_e2e/data/imagenet_train_leveldb
+E0810 17:02:09.664747 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train0.jpg
+E0810 17:02:21.494679 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train0.jpg
+I0810 17:02:27.689134 20958 convert_imageset.cpp:146] Processed 1000 files.
+I0810 17:03:27.268333 20958 convert_imageset.cpp:146] Processed 2000 files.
+I0810 17:04:27.204679 20958 convert_imageset.cpp:146] Processed 3000 files.
+I0810 17:05:14.997861 20958 convert_imageset.cpp:146] Processed 4000 files.
+E0810 17:05:53.492472 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615499082.jpg
+I0810 17:06:03.704720 20958 convert_imageset.cpp:146] Processed 5000 files.
+I0810 17:06:53.573987 20958 convert_imageset.cpp:146] Processed 6000 files.
+I0810 17:07:49.252667 20958 convert_imageset.cpp:146] Processed 7000 files.
+I0810 17:08:39.882444 20958 convert_imageset.cpp:146] Processed 8000 files.
+I0810 17:09:28.762611 20958 convert_imageset.cpp:146] Processed 9000 files.
+I0810 17:10:16.321562 20958 convert_imageset.cpp:146] Processed 10000 files.
+E0810 17:10:39.422852 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615997731.jpg
+I0810 17:11:04.749985 20958 convert_imageset.cpp:146] Processed 11000 files.
+I0810 17:11:53.136471 20958 convert_imageset.cpp:146] Processed 12000 files.
+I0810 17:12:42.938329 20958 convert_imageset.cpp:146] Processed 13000 files.
+E0810 17:13:26.110616 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14689908197342.jpg
+I0810 17:13:32.541380 20958 convert_imageset.cpp:146] Processed 14000 files.
+I0810 17:14:21.857148 20958 convert_imageset.cpp:146] Processed 15000 files.
+I0810 17:15:10.990072 20958 convert_imageset.cpp:146] Processed 16000 files.
+I0810 17:15:59.084911 20958 convert_imageset.cpp:146] Processed 17000 files.
+I0810 17:16:47.129415 20958 convert_imageset.cpp:146] Processed 18000 files.
+E0810 17:16:57.573477 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train2.jpg
+E0810 17:17:07.453011 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615499081.jpg
+I0810 17:17:35.540191 20958 convert_imageset.cpp:146] Processed 19000 files.
+E0810 17:17:55.147166 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train1.jpg
+I0810 17:18:24.937232 20958 convert_imageset.cpp:146] Processed 20000 files.
+E0810 17:18:36.914089 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train0.jpg
+E0810 17:18:43.478520 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train0.jpg
+I0810 17:19:13.060389 20958 convert_imageset.cpp:146] Processed 21000 files.
+E0810 17:19:58.513409 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train2.jpg
+I0810 17:20:02.321384 20958 convert_imageset.cpp:146] Processed 22000 files.
+E0810 17:20:35.135458 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615997730.jpg
+I0810 17:20:50.909366 20958 convert_imageset.cpp:146] Processed 23000 files.
+E0810 17:21:11.890975 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685654686982.jpg
+I0810 17:21:39.528280 20958 convert_imageset.cpp:146] Processed 24000 files.
+I0810 17:22:27.403877 20958 convert_imageset.cpp:146] Processed 25000 files.
+E0810 17:23:12.659368 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train2.jpg
+I0810 17:23:16.028487 20958 convert_imageset.cpp:146] Processed 26000 files.
+I0810 17:24:04.506944 20958 convert_imageset.cpp:146] Processed 27000 files.
+I0810 17:24:53.549376 20958 convert_imageset.cpp:146] Processed 28000 files.
+E0810 17:24:59.563752 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train/highlander_1468492373805.jpg
+E0810 17:25:00.666502 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train1.jpg
+E0810 17:25:05.303593 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615997732.jpg
+I0810 17:25:41.516563 20958 convert_imageset.cpp:146] Processed 29000 files.
+I0810 17:26:29.131589 20958 convert_imageset.cpp:146] Processed 30000 files.
+I0810 17:27:17.882670 20958 convert_imageset.cpp:146] Processed 31000 files.
+I0810 17:28:06.389456 20958 convert_imageset.cpp:146] Processed 32000 files.
+I0810 17:28:54.921232 20958 convert_imageset.cpp:146] Processed 33000 files.
+E0810 17:29:06.127373 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14689908197340.jpg
+I0810 17:29:43.289443 20958 convert_imageset.cpp:146] Processed 34000 files.
+I0810 17:30:31.202777 20958 convert_imageset.cpp:146] Processed 35000 files.
+I0810 17:31:19.137967 20958 convert_imageset.cpp:146] Processed 36000 files.
+I0810 17:32:07.858610 20958 convert_imageset.cpp:146] Processed 37000 files.
+E0810 17:32:35.986752 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train0.jpg
+E0810 17:32:47.515537 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train3.jpg
+I0810 17:32:56.971882 20958 convert_imageset.cpp:146] Processed 38000 files.
+I0810 17:33:46.067832 20958 convert_imageset.cpp:146] Processed 39000 files.
+I0810 17:34:34.628199 20958 convert_imageset.cpp:146] Processed 40000 files.
+I0810 17:35:23.300740 20958 convert_imageset.cpp:146] Processed 41000 files.
+E0810 17:35:30.547423 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train2.jpg
+I0810 17:36:11.326611 20958 convert_imageset.cpp:146] Processed 42000 files.
+I0810 17:36:59.204305 20958 convert_imageset.cpp:146] Processed 43000 files.
+E0810 17:37:07.239329 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train3.jpg
+E0810 17:37:21.630710 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train3.jpg
+I0810 17:37:47.801690 20958 convert_imageset.cpp:146] Processed 44000 files.
+I0810 17:38:36.366730 20958 convert_imageset.cpp:146] Processed 45000 files.
+E0810 17:38:36.393244 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685615499080.jpg
+I0810 17:39:25.697254 20958 convert_imageset.cpp:146] Processed 46000 files.
+E0810 17:40:09.420819 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train3.jpg
+I0810 17:40:14.075254 20958 convert_imageset.cpp:146] Processed 47000 files.
+I0810 17:41:02.074105 20958 convert_imageset.cpp:146] Processed 48000 files.
+E0810 17:41:30.726039 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train1.jpg
+I0810 17:41:50.313805 20958 convert_imageset.cpp:146] Processed 49000 files.
+I0810 17:42:38.392331 20958 convert_imageset.cpp:146] Processed 50000 files.
+I0810 17:43:26.796703 20958 convert_imageset.cpp:146] Processed 51000 files.
+E0810 17:43:52.389785 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train2.jpg
+I0810 17:44:15.092978 20958 convert_imageset.cpp:146] Processed 52000 files.
+E0810 17:44:42.154786 20958 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14688248835170.jpg
+I0810 17:45:04.439491 20958 convert_imageset.cpp:146] Processed 53000 files.
+I0810 17:45:52.552145 20958 convert_imageset.cpp:146] Processed 54000 files.
+I0810 17:46:41.141985 20958 convert_imageset.cpp:146] Processed 55000 files.
+I0810 17:46:44.565732 20958 convert_imageset.cpp:152] Processed 55068 files.
+Creating val lmdb...
+I0810 17:46:44.947038 21591 convert_imageset.cpp:85] A total of 27548 images.
+I0810 17:46:44.947329 21591 db_lmdb.cpp:23] Opened lmdb /home/zyxu/train_e2e/data/imagenet_val_leveldb
+E0810 17:47:22.903862 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14688248835172.jpg
+I0810 17:47:33.373165 21591 convert_imageset.cpp:146] Processed 1000 files.
+I0810 17:48:23.094245 21591 convert_imageset.cpp:146] Processed 2000 files.
+I0810 17:49:11.926049 21591 convert_imageset.cpp:146] Processed 3000 files.
+E0810 17:49:37.650324 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14688248835171.jpg
+I0810 17:50:01.021174 21591 convert_imageset.cpp:146] Processed 4000 files.
+I0810 17:50:49.550310 21591 convert_imageset.cpp:146] Processed 5000 files.
+I0810 17:51:38.412750 21591 convert_imageset.cpp:146] Processed 6000 files.
+I0810 17:52:27.345305 21591 convert_imageset.cpp:146] Processed 7000 files.
+E0810 17:53:11.048089 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train/highlander_1468491691687.jpg
+I0810 17:53:16.021066 21591 convert_imageset.cpp:146] Processed 8000 files.
+I0810 17:54:06.051262 21591 convert_imageset.cpp:146] Processed 9000 files.
+E0810 17:54:40.023075 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train3.jpg
+I0810 17:54:55.481901 21591 convert_imageset.cpp:146] Processed 10000 files.
+I0810 17:55:44.356891 21591 convert_imageset.cpp:146] Processed 11000 files.
+I0810 17:56:33.182358 21591 convert_imageset.cpp:146] Processed 12000 files.
+E0810 17:56:52.842082 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14689908197341.jpg
+I0810 17:57:22.794015 21591 convert_imageset.cpp:146] Processed 13000 files.
+I0810 17:58:11.569164 21591 convert_imageset.cpp:146] Processed 14000 files.
+I0810 17:59:00.318025 21591 convert_imageset.cpp:146] Processed 15000 files.
+E0810 17:59:40.672121 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train1.jpg
+I0810 17:59:49.066718 21591 convert_imageset.cpp:146] Processed 16000 files.
+E0810 18:00:19.411444 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train/highlander_1468492394988.jpg
+I0810 18:00:37.567245 21591 convert_imageset.cpp:146] Processed 17000 files.
+I0810 18:01:26.373369 21591 convert_imageset.cpp:146] Processed 18000 files.
+I0810 18:02:14.603842 21591 convert_imageset.cpp:146] Processed 19000 files.
+I0810 18:03:03.026478 21591 convert_imageset.cpp:146] Processed 20000 files.
+I0810 18:03:52.285502 21591 convert_imageset.cpp:146] Processed 21000 files.
+E0810 18:03:56.163533 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train/highlander_1468480917911.jpg
+E0810 18:04:27.363572 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train/highlander_1468482536472.jpg
+E0810 18:04:28.060681 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/train1.jpg
+I0810 18:04:40.290489 21591 convert_imageset.cpp:146] Processed 22000 files.
+I0810 18:05:29.253492 21591 convert_imageset.cpp:146] Processed 23000 files.
+I0810 18:06:17.015501 21591 convert_imageset.cpp:146] Processed 24000 files.
+E0810 18:06:26.270817 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685654686980.jpg
+I0810 18:07:05.820225 21591 convert_imageset.cpp:146] Processed 25000 files.
+I0810 18:07:55.290048 21591 convert_imageset.cpp:146] Processed 26000 files.
+E0810 18:08:00.430744 21591 io.cpp:80] Could not open or find file /home/zyxu/carImageData/img/trainhighlander_14685654686981.jpg
+I0810 18:08:44.470614 21591 convert_imageset.cpp:146] Processed 27000 files.
+I0810 18:09:11.110517 21591 convert_imageset.cpp:152] Processed 27536 files.
+Done.
